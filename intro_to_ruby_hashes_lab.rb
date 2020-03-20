@@ -1,5 +1,5 @@
 def new_hash
-  {name: "Steve"}
+  {}
 end
 
 def my_hash
